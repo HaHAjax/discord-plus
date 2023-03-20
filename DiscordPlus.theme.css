@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://cdna.artstation.com/p/assets/images/images/014/629/210/large/del-northern-rw-switch-promo.jpg?1544752475);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://images2.alphacoders.com/987/987537.jpg);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
@@ -86,6 +86,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
---dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
+--dplus-icon-home-dark: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40b2a1bc-11e1-4247-b88f-69ca5250555d/de1j681-5f104f60-1f40-4c2a-a5a0-c15c01a1bc7c.png/v1/fill/w_1280,h_1280,strp/rain_world_icon_by_b0ssmancat_de1j681-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzQwYjJhMWJjLTExZTEtNDI0Ny1iODhmLTY5Y2E1MjUwNTU1ZFwvZGUxajY4MS01ZjEwNGY2MC0xZjQwLTRjMmEtYTVhMC1jMTVjMDFhMWJjN2MucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1n85PDqGdRJbtQG7mpd2elhYCsGBPpV3LLSE_vYV338);
+--dplus-icon-home-light: url(https://cdn.discordapp.com/attachments/924697717270265896/1087400864924307656/kirb.png);
 }
